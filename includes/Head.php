@@ -1,5 +1,5 @@
 <?php
-//Ramzi harrak
+//Ramzi, Yusuf ,Karim
 //18-2-2025
 // includes voor de paginas
 ?>

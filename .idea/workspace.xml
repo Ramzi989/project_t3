@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c06cd09-d780-4948-ae84-762c58dec3b2" name="Changes" comment="mappen">
-      <change afterPath="$PROJECT_DIR$/Pages/enquete.php" afterDir="false" />
+    <list default="true" id="2c06cd09-d780-4948-ae84-762c58dec3b2" name="Changes" comment="home pagina pul">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pages/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/Head.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/Head.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/HomePagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/HomePagina.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,22 +56,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/xampp/Praktijk",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/Praktijk&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -95,7 +95,8 @@
       <workItem from="1743165123355" duration="2259000" />
       <workItem from="1743492863031" duration="579000" />
       <workItem from="1743493453532" duration="43000" />
-      <workItem from="1743493525825" duration="740000" />
+      <workItem from="1743493525825" duration="1013000" />
+      <workItem from="1743494560031" duration="7917000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste commit voor project">
       <option name="closed" value="true" />
@@ -129,16 +130,44 @@
       <option name="project" value="LOCAL" />
       <updated>1743494142144</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="mappen">
+      <option name="closed" value="true" />
+      <created>1743494357656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743494357656</updated>
+    </task>
+    <task id="LOCAL-00006" summary="home pagina pul">
+      <option name="closed" value="true" />
+      <created>1743494477773</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743494477773</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Eerste commit voor project" />
     <MESSAGE value="cdac" />
     <MESSAGE value="mappen" />
-    <option name="LAST_COMMIT_MESSAGE" value="mappen" />
+    <MESSAGE value="home pagina pul" />
+    <option name="LAST_COMMIT_MESSAGE" value="home pagina pul" />
   </component>
 </project>

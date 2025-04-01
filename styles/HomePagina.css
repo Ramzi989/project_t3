@@ -1,10 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Candal&display=swap');
+
+@font-face {
+    font-family: 'Candal';
+    src: url('https://fonts.googleapis.com/css2?family=Candal&display=swap');
+
+}
+/*Dit is voor de footer */
 #footer
 {
     display: flex;
     padding: 0;
     list-style-type: none;
 }
-
+body {
+    background-color: #e0e5ea;
+}
 
 
 
@@ -15,4 +26,58 @@
 .Vakgebieden
 {
     list-style-type: none;
+}
+.container-koptekst
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Titel
+{
+    text-align: center;
+    width: 500px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 80px;
+    font-family: 'Candal';
+}
+
+.eersteTitel
+{
+    font-size: 40px;
+    color: #030375;
+    font-family: 'Candal';
+}
+
+.EersteVacturen
+{
+    font-size: 15px;
+    font-family: 'Candal';
+    width: 500px;
+    background-color: white;
+    padding : 10px;
+    border-radius: 20px;
+
+}
+.Tweedevacturen
+{
+    font-size: 15px;
+    font-family: 'Candal';
+    width: 500px;
+    background-color: white;
+    padding : 10px;
+    border-radius: 20px;
+
+}
+
+.divsContainer
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
 }
