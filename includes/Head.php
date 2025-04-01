@@ -20,7 +20,7 @@
                 </li>
                 <li>
                     <a href="../Pages/">
-                        Behandelingen
+                        Behandelingenh
                     </a>
             </ul>
         </nav>
