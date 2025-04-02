@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c06cd09-d780-4948-ae84-762c58dec3b2" name="Changes" comment="mappen">
-      <change afterPath="$PROJECT_DIR$/Pages/enquete.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/HomePagina.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/HomePagina.css" afterDir="false" />
+    <list default="true" id="2c06cd09-d780-4948-ae84-762c58dec3b2" name="Changes" comment="aanpassing home page">
+      <change afterPath="$PROJECT_DIR$/Pages/resultaat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,15 +58,16 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/xampp/Praktijk",
+    "last_opened_file_path": "C:/xampp/project_t3",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "web.server",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -139,6 +138,7 @@
     <MESSAGE value="Eerste commit voor project" />
     <MESSAGE value="cdac" />
     <MESSAGE value="mappen" />
-    <option name="LAST_COMMIT_MESSAGE" value="mappen" />
+    <MESSAGE value="aanpassing home page" />
+    <option name="LAST_COMMIT_MESSAGE" value="aanpassing home page" />
   </component>
 </project>
