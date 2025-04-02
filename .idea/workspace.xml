@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c06cd09-d780-4948-ae84-762c58dec3b2" name="Changes" comment="mappen" />
+    <list default="true" id="2c06cd09-d780-4948-ae84-762c58dec3b2" name="Changes" comment="home pagina pul" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +38,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Ramzi989/project_t3.git&quot;,
-    &quot;accountId&quot;: &quot;c3524f0b-d4a5-487c-bc1a-11f08eb7d0d4&quot;
+    &quot;accountId&quot;: &quot;d4c7280f-c976-4e18-a720-64758c100962&quot;
   }
 }</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
@@ -70,8 +70,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PS-242.21829.154" />
-        <option value="bundled-php-predefined-a98d8de5180a-4d9f4c849d09-com.jetbrains.php.sharedIndexes-PS-242.21829.154" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PS-243.23654.168" />
+        <option value="bundled-php-predefined-a98d8de5180a-4c3855d0ab16-com.jetbrains.php.sharedIndexes-PS-243.23654.168" />
       </set>
     </attachedChunks>
   </component>
@@ -90,9 +90,10 @@
       <workItem from="1743165123355" duration="2259000" />
       <workItem from="1743492863031" duration="579000" />
       <workItem from="1743493453532" duration="43000" />
-      <workItem from="1743493525825" duration="740000" />
-      <workItem from="1743503745040" duration="128000" />
-      <workItem from="1743589310014" duration="711000" />
+      <workItem from="1743493525825" duration="1013000" />
+      <workItem from="1743494560031" duration="13700000" />
+      <workItem from="1743532168404" duration="1162000" />
+      <workItem from="1743534097759" duration="2365000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste commit voor project">
       <option name="closed" value="true" />
@@ -128,31 +129,58 @@
     </task>
     <task id="LOCAL-00005" summary="mappen">
       <option name="closed" value="true" />
-      <created>1743495358852</created>
+      <created>1743494357656</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1743495358852</updated>
+      <updated>1743494357656</updated>
     </task>
-    <task id="LOCAL-00006" summary="mappen">
+    <task id="LOCAL-00006" summary="home pagina pul">
       <option name="closed" value="true" />
-      <created>1743589324885</created>
+      <created>1743494477773</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1743589324885</updated>
+      <updated>1743494477773</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="home pagina pul">
+      <option name="closed" value="true" />
+      <created>1743515008557</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743515008557</updated>
+    </task>
+    <task id="LOCAL-00008" summary="home pagina pul">
+      <option name="closed" value="true" />
+      <created>1743589368410</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743589368410</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Eerste commit voor project" />
     <MESSAGE value="cdac" />
-    <MESSAGE value="enquete" />
     <MESSAGE value="mappen" />
-    <option name="LAST_COMMIT_MESSAGE" value="mappen" />
+    <MESSAGE value="home pagina pul" />
+    <option name="LAST_COMMIT_MESSAGE" value="home pagina pul" />
   </component>
 </project>

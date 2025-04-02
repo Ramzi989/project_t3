@@ -1,5 +1,5 @@
 <?php
-//Ramzi harrak
+//Ramzi, Yusuf ,Karim
 //18-2-2025
 // includes voor de paginas
 ?>
@@ -14,13 +14,13 @@
                     </a>
                 </li>
                 <li>
-                    <a href="../Pages/">
+                    <a href="../Pages/enquete.php">
                         Enquête
                     </a>
                 </li>
                 <li>
-                    <a href="../Pages/">
-                        Behandelingenh
+                    <a href="../Pages/submit.php">
+                        Resultaat
                     </a>
             </ul>
         </nav>
