@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c06cd09-d780-4948-ae84-762c58dec3b2" name="Changes" comment="mappen">
-      <change afterPath="$PROJECT_DIR$/styles/enquete.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/enquete.php" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/enquete.php" afterDir="false" />
-    </list>
+    <list default="true" id="2c06cd09-d780-4948-ae84-762c58dec3b2" name="Changes" comment="mappen" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,12 +35,12 @@
     &quot;assignee&quot;: &quot;Ramzi989&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ramzi989/project_t3.git",
-    "accountId": "c3524f0b-d4a5-487c-bc1a-11f08eb7d0d4"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ramzi989/project_t3.git&quot;,
+    &quot;accountId&quot;: &quot;c3524f0b-d4a5-487c-bc1a-11f08eb7d0d4&quot;
   }
-}]]></component>
+}</component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -96,6 +92,7 @@
       <workItem from="1743493453532" duration="43000" />
       <workItem from="1743493525825" duration="740000" />
       <workItem from="1743503745040" duration="128000" />
+      <workItem from="1743589310014" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="Eerste commit voor project">
       <option name="closed" value="true" />
@@ -137,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743495358852</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="mappen">
+      <option name="closed" value="true" />
+      <created>1743589324885</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743589324885</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -112,12 +112,13 @@
                         <p>
                             Bent u op zoek naar tijdelijk of vast werk?
                         </p>
-                        <input type="radio" name="uren" value="30 tot 40 uur" >30 tot 40 uur<br>
-                        <input type="radio" name="uren" value="Meer dan 40 uur" >Meer dan 40 uur<br>
+                        <input type="radio" name="vast" value="tijdelijk" required>Tijdelijk<br>
+                        <input type="radio" name="vast" value="vast" >Vast<br>
                         <p>
                             Heeft u voorkeur voor specifieke bedrijven of sectoren?
                         </p>
-
+                        <input type="radio" name="voorkeuren" value="ja" required>ja<br>
+                        <input type="radio" name="voorkeuren" value="nee" >nee<br>
 
 
                         <input type="submit" value="verzenden">
