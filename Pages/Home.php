@@ -45,23 +45,39 @@
     </div>
     <div  class="Tweedevacturen">
         <h2>
-            Financial Controller
+            FINANCIAL CONTROLLER
         </h2>
         <h3>
-            🗺️asten  €60.00 - €72.000
+            🗺️Asten  €60.00 - €72.000
         </h3>
         <p>
             Voor onze opdrachtgever, een ambitieuze organisatie in de innovatieve oplossingen voor communicatie en connectiviteit, zijn wij op zoek naar een Financial Controller.
         </p>
     </div>
-
     </div>
+    <article>
+        <h1>
+            Werken als Financial Consultant
+        </h1>
+        <p>
+            De Financial Consultant in vaste dienst bij vijzelaar.com wordt door ons een Vijzelaar genoemd. Als Financial Consultant werk je op tijdelijke basis voor onze opdrachtgevers. Het avontuur van iedere keer een andere organisatie, een andere positie, in een ander speelveld, dat spreekt je aan.
+        </p>
+        <button> <a> hallooo</a></button>
+    </article>
+
+
+
+
+
 
 
 
 
 </main>
 <footer>
+
+
+
 
 
 </footer>

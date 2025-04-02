@@ -49,13 +49,13 @@ body {
 .eersteTitel
 {
     font-size: 40px;
-    color: #030375;
+    color: #1e1e6a;
     font-family: 'Candal';
 }
 
 .EersteVacturen
 {
-    font-size: 15px;
+
     font-family: 'Candal';
     width: 500px;
     background-color: white;
@@ -65,12 +65,12 @@ body {
 }
 .Tweedevacturen
 {
-    font-size: 15px;
     font-family: 'Candal';
     width: 500px;
     background-color: white;
     padding : 10px;
     border-radius: 20px;
+    margin-left: 30px;
 
 }
 
@@ -79,5 +79,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: auto;
     margin-top: 200px;
+
 }
+
+h2
+{
+    color: #1e1e6a;
+}
+
