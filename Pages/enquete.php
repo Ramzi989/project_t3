@@ -15,7 +15,7 @@
     <body>
         <div class="enquete-container">
                 <div class="enquete-inhoud">
-                    <form action="submit.php" method="post">
+                    <form  method="post">
                         <h1>
                             Wat is uw naam?
                         </h1>
@@ -118,7 +118,7 @@
                             Heeft u voorkeur voor specifieke bedrijven of sectoren?
                         </p>
                         <input type="radio" name="voorkeuren" value="ja" required>ja<br>
-                        <input type="radio" name="voorkeuren" value="nee" >nee<br>
+                        <input type="radio" name="voorkeurena" value="nee" >nee<br>
 
 
                         <input type="submit" value="verzenden">
